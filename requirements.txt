@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+langchain-ollama
+langchain-chroma
+langgraph
+pandas
+python-dotenv
+google-generativeai
